@@ -50,7 +50,11 @@ additional dependencies for specific feature, e.g. the Swap exchange implementat
 
 ## Install
 
-Via Composer
+Via ComposerClone with HTTPS 
+Use Git or checkout with SVN using the web URL.
+
+
+https://github.com/oscarg933/coherence.git
 
 ```bash
 $ composer require moneyphp/money
