@@ -21,6 +21,11 @@ in order to support unlimited integers.
 
 ```php
 <?php
+Clone with HTTPS 
+Use Git or checkout with SVN using the web URL.
+
+
+https://github.com/oscarg933/coherence.git
 
 use Money\Money;
 
